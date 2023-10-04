@@ -1,0 +1,318 @@
+Animales a tratar:
+
+Reptiles:
+
+Tortuga punk o Mary River ✓
+Serpiente nariz de hoja ✓
+Boa de arena árabe ✓
+Serpiente de vid ✓
+Lagarto cornudo de nariz rugosa ✓
+Camaleón pigmeo de Chapman ✓
+Camaleón de Jackson ✓
+Lagartija de madera de Feiruz (Enyalioides feiruzae)
+Camaleón de cola corta de Sorata (Brookesia nana)
+Lagarto excavador de Bogadek (Dibamus bogadeki)
+Lagarto monitor sin orejas (Lanthanotus borneensis)
+Lagartija caimán de Sierra Plegada (Gerrhonotus parvus)
+Ibijara (Amphisbaena alba)
+Basilisco verde (Basiliscus plumifrons)
+Cocodrilo cubano (Crocodylus rhombifer)
+Tortuga de cuello de serpiente australiana (Chelodina longicollis)
+
+Mamíferos:
+
+Armadillo de cola desnuda meridional ✓
+Saki cariblanco ✓
+Saki blanco ✓
+Mangabeye de vientre dorado ✓
+Cervicabra ✓
+Oryx de Arabia ✓
+Zifio de Ramari (Mesoplodon eueu)
+
+Anfibios:
+
+Sapo tomate de Madagascar ✓
+Sapo de Surinam ✓
+Cecilia de Thompson ✓
+Proteo ✓
+Salamandra gusano de Villamizar ✓ 
+Tritón crestado del norte ✓
+Rana vampiro de Vietnam (Racophorus vampyrus)
+Salamandra gigante de Jiangxi (Andrias jiangxiensis)
+
+Peces:
+
+Yelmo de nariz cuadrada ✓
+Pez balón de fútbol espinoso ✓
+Cardenal de Banggai ✓
+Cíclido de Flowerhorn (English) ✓
+Endler ✓
+Pez indio rojo ✓
+Tijera esbelta ✓
+Pez payaso ✓
+Pez payaso ensillado ✓
+Pez payaso granate ✓
+Pez payaso tomate ✓
+Tollo negro ✓
+Brosmio sin rostro (Typhlonus nasus) ✓
+Pez piña (Cleidopus gloriamaris) ✓
+Pez hada de velo rosa (Cirrhilabrus finifenmaa) ✓
+Pez perla estrella (Carapus mourlani) ✓
+
+Aves:
+
+Ibis eremita ✓
+Marabu africano ✓
+Pavo real del Congo ✓
+Jote real ✓
+Lori sombrío ✓
+Cacatúa enlutada ✓
+Caique de cabeza negra ✓
+Perico elegante ✓
+Quinaquina ✓
+
+Insectos:
+
+Escarabajo tortuga de oro ✓
+Gorgojo jirafa ✓
+Membrácido brasileño ✓
+Mantis flor del diablo ✓
+Mantis hoja muerta ✓
+Mantis paraguas ✓
+Aceitera común ✓
+Polilla de franela ✓
+Mariposa emperador con cola ✓
+Polilla de la rosa que pica (Parasa Indetermina) ✓
+Polilla rosada del arce ✓
+Mariposa de la Isla de Mármol ✓
+Hormiga tortuga del Caribe norte ✓
+Saltamontes rosados de Sabah (Eulophophylum kirki) ✓
+Polilla polifemo ✓
+Escarabajo mexicano del frijol ✓
+
+Arácnidos:
+
+Escorpión de los libros ✓
+Vinagrillo gigante ✓
+Segador común ✓
+Araña látigo común (Damon variegatus) ✓
+Dinoaraña (Ricinoides atewa) ✓
+Cangrejo herradura de manglar ✓
+Araña de Gryffindor ✓
+Saltarina verde herbívora ✓
+Araña cometa (Gasteracantha falcicornis) ✓
+Solífugo ibérico (Gluvia dorsalis) ✓
+Araña cabeza de flecha ✓
+Araña mímica de mariquita (Paraplectana duodecimmaculata) ✓
+Araña moteada saltadora (Eresus cinnaberinus) ✓
+Araña hawaiana de carita feliz (Theridion grallator) ✓
+Araña cangrejo de ocho manchas ✓
+Conejito segador (Metagryne bicolumnata) ✓
+NV: Indefinido - "Araña cavernícola argentina" (Otilioleptes marcelae) ✓
+Chandachuly (Ceratogyrus attonitifer) ✓
+Araña roja ✓
+Araña de bambú tailandesa (Taksinus bambus)
+
+Crustáceos:
+
+Camarón esqueleto (Liropus minusculus) ✓
+Gusano ancla ✓
+Percebe hacker de cangrejo ✓
+Isópodo gigante ✓
+Termita marina ✓
+Cangrejo guisante ✓
+Piojo de ballena jorobada (Cyamus boopis) ✓
+Cangrejo de río rayo (Cherax pulcher) ✓
+Cangrejo esponjoso (Lamarckdromia beagle)
+
+Miriápodos:
+
+NV: Indefinido - "Rey de la cueva" (Cryptops speleorex) ✓
+Ciempiés doméstico ✓
+NV: Indefinido - "Milpiés desconocido de Gales" (NC: Indefinido) ✓
+Milpiés Perséfone (Eumillipes persephone) ✓
+Milpiés de musgo (Psammodesmus bryophorus) ✓
+Milpiés del tren ✓
+Ciempiés Hades (Geophilus hadesi) ✓
+Ciempiés de la cascada (Scolopendra cataracta) ✓
+NV: Indefinido - "Milpiés de cuatro penes de las cavernas de mármol" (Illacme tobini) ✓
+
+Moluscos:
+
+Caracol lengua de flamenco ✓
+Babosa magnífica de Loch ✓
+Chiton difuso ✓
+Pulpo de cristal (Vitreledonella richardi) ✓
+Abulón arcoíris (Haliotis iris) ✓
+Abulón roscado (Haliotis kamtschatkana) ✓
+Abulón de labios negros (Haliotis rubra) ✓
+Gusano de roca (Lithoredo abatanica) ✓
+Sepia llamas (Metasepia pfefferi) ✓
+Caracol negro de Otway ✓
+Murex espinoso (Poirieria zelandica) ✓
+Babosa de mar arcoíris (Babakina anadoni) ✓
+Caracol de ajo (Oxychilus alliarius) ✓
+Babosa leopardo (Limax maximus) ✓
+Babosa ninja de Borneo ✓
+Babosa del triángulo rojo (Triboniophorus graeffei) ✓
+Babosa banana ✓
+Pulpo djinda (Octopus djinda)
+
+Poríferos (fa-solid fa-fingerprint):
+
+Esponja copa de Neptuno (Cliona patera) ✓
+Esponja arpa ✓
+Esponja árbol de ping-pong (Chondrocladia lampadiglobus) ✓
+Esponja taronja lobulada (Agelas oroides) ✓
+Esponja raya naranja (Spirastrella cunctatrix) ✓
+Petrosia dura ✓
+
+Cnidarios (fa-solid fa-timeline fa-rotate-90):
+
+Medusa atolón (Atolla wyvillei) ✓
+Medusa de color rojo oscuro (Crossota norvegica) ✓
+Medusa de fuegos artificiales (Halitrephes maasi) ✓
+NV: Indefinido - "Medusa de tres tentáculos del Pacífico" (NC: Indefinido) ✓
+Medusa de peine sangrienta (Lampocteis cruentiventer) ✓
+NV: Indefinido - "Medusa de disco rojo sangre" (NC: Indefinido) ✓
+Medusa caja (Chirodectes maculatus) ✓
+NV: Indefinido - "Medusa anaranjada sin tentáculos" (Aulacoctena acuminata) ✓
+Medusa de rayas moradas (Chrysaora colorata) ✓
+Medusa clavel (Pelagia noctiluca) ✓
+Carabela portuguesa (Physalia physalis) ✓
+Medusa huevo frito (Cotylorhiza tuberculata) ✓ 
+Pólipo de clavo (Clavularia viridis) ✓
+Coral pipa ramificada (Carijoa riisei) ✓
+Anémona armada (Dofleinia armata) ✓
+Hidra marrón (Hydra oligactis) ✓
+Anémona de mar con tentáculos de sacacorchos (Macrodactyla doreensis) ✓
+Anémona alfombra (Stichodactyla haddoni) ✓
+Anémona de cuentas rojas (Phymanthus crucifer) ✓
+Anémona plumosa (Metridium dianthus) ✓
+Anémona de manto (Adamsia palliata) ✓
+Anémona tubo mediterránea (Cerianthus membranaceus) ✓
+
+Platelmintos (fa-solid fa-bacon):
+
+Platelminto fucsia (Pseudobiceros ferrugineus)
+Platelminto dividido (Pseudoceros dimidiatus)
+Platelminto de Linda (Pseudoceros lindae)
+Platelminto de rayas de carreras (Pseudoceros liparus)
+Platelminto centelleante (Pseudoceros scintillatus)
+Platelminto de la cinta (Pseudoceros bifurcus)
+Platelminto de la alfombra (Thysanozoon brocchii)
+Planaria de Bedford (Pseudobiceros bedfordi)
+Platelminto con margen de punto azul (Pseudoceros indicus)
+Platelminto de la isla de Laing (Pseudoceros laingensis)
+Platelminto de zafiro (Pseudoceros sapphirinus)
+Platelminto de dos bandas (Pseudoceros bimarginatus)
+Platelminto de papilas amarillas (Thysanozoon nigropapillosum)
+Platelminto de Orsak (Maiazoon orsaki)
+Platelminto de Gosliner (Pseudoceros goslineri)
+Platelminto de Susan (Pseudoceros susanae)
+Platelminto negro (Pseudoceros velutinus)
+Platelminto de líneas finas (Pseudoceros monostichos)
+
+Nematodos (fa-solid fa-s fa-rotate-270):
+ 
+NV: Indefinido - "Gusano trioico del arsénico" (Auanema sp.)
+Gusano renal porcino (Stephanurus dentatus)
+Gusano ganchudo canino (Ancylostoma caninum)
+Oxiuro (Enterobius vermicularis)
+Nematodo barrenador (Radopholus similis)
+Nematodo de la raíz del nogal (Pratylenchus vulnus)
+Nematodo espiral de Steiner (Helicotylenchus dihystera)
+Nematodo de la punta blanca del arroz (Aphelenchoides besseyi)
+NV: Indefinido - "Nematodo minúsculo de Jaén" (Protorhabditis hortulana)
+NV: Indefinido - "Gusano del diablo" (Halicephalobus mesphisto)
+
+Anélidos (fa-solid fa-worm):
+
+Lombriz de tierra gigante de Gippsland (Megascolides australis)
+Lombriz de tierra gigante africana (Microchaetus rappi)
+Gusano Bobbit
+Gusano de sangre americano (Glycera americana)
+Gusano de fuego
+Sanguijuela de los peces (Pontobdella muricata)
+Pez pene (Urechis caupo)
+Gusano de maní comestible (Sipunculus nudus)
+Gusano de tubo gigante (Riftia pachyptila)
+Gusano crinoideo (Myzostoma fuscomaculatum)
+Gusano de lunares roizos (Aeolosoma hemprichi)
+NV: Indefinido - "Gusano anaranjado de las piscinas de marea" (Dinophilus taeniatus)
+NV: Indefinido - "Ortonéctido de las ofiuras" (Rhopalura ophiocomae)
+Gusano negro de California (Lumbriculus variegatus)
+Gusano plumero (Sabellastarte indica)
+
+Equinodermos (fa-solid fa-disease):
+
+Monstruo del pollo sin cabeza (Enypniastes eximia)
+Estrella del sol de la mañana (Solaster dawsoni)
+Estrella girasol (Pycnopodia helianthoides)
+Estrella de mar granulada (Choriaster granulatus)
+Estrella de mar real (Astropecten articulatus)
+Murciélago de mar (Patiria miniata)
+Corona de espinas (Acanthaster planci)
+Estrella de sangre del pacífico (Henricia leviuscula)
+Estrella de mar de velcro (Novodinia antillensis)
+Estrella de perla (Fromia monilis)
+Estrella de mar nudosa (Pisaster giganteus)
+Estrella cojín (Culcita novaeguineae)
+Estrella de mar con chispas de chocolate (Protoreaster nodosus)
+Estrella de mar azul (Linckia laevigata)
+Estrella de arena del sur (Luidia australiae)
+Estrella del cojín de Panamic (Pentaceraster cumingi)
+Estrella de sol común (Crossaster papposus)
+Estrella de mar de nueve brazos (Luidia senegalensis)
+Estrella ícono (Iconaster longimanus)
+Gran estrella espinosa (Meyenaster gelatinosus)
+Cazuelilla de cinco agujeros (Mellita quinquiesperforata)
+Estrella frágil (Ophiojura exbodi)
+Tabaquera (Cidaris cidaris)
+Erizo de lima
+Erizo de flor (Toxopneustes pileolus)
+Patata de mar (Echinocardium cordatum)
+Erizo de mar melón (Echinus melo)
+Erizo lápiz rojo (Heterocentrotus mammillatus)
+Erizo de mar blanco (Gracilechinus acutus)
+Kina
+Erizo de mar de cuero tóxico (Asthenosoma marisrubri)
+Potuna común
+Falso erizo de fuego (Astropyga radiata)
+Erizo de guisante (Echinocyamus pusillus)
+Pepino de mar resplandeciente (Pannychia moseleyi)
+Cerdo de mar globoso (Scotoplanes globosa)
+Pepino de mar chispa de chocolate (Isostichopus badionotus)
+Pepino de mar de estiércol de burro (Holothuria mexicana)
+Pepino de mar medusa (Pelagothuria natatrix)
+
+Otros (fa-solid fa-plus):
+
+Nemertinos:
+Gusano de cinta (Gorgonorhynchus repens)
+Gusano de cinta blanco como la leche (Amphiporus lactifloreus)
+Gusano cordón de bota (Lineus longissimus)
+Sanguijuela nemertina (Malacobdella grossa)
+Nemertino terrestre australiano (Argonemertes australiensis)
+
+Nematomorfos:
+Gusano de crin del grillo del bosque (Paragordius tricuspidatus)
+Gusano de crin de la mantis religiosa (Chordodes formosanus)
+
+Xenacelomorfos:
+NV: Indefinido - "Gusano churro" (Xenoturbella churro)
+Gusano calcetín morado gigante de aguas profundas (Xenoturbella monstrosa)
+NV: Indefinido - "Gusano escandinavo del pepino de mar" (Meara stichopi)
+
+Quetognatos:
+Lombriz flecha
+
+Tunicados:
+Ascidia verrugosa blanca (Phallusia mammillata)
+Jarrón de mar (Ciona intestinalis)
+Piña de mar (Halocynthia roretzi)
+Tunicado estrellado dorado (Botryllus schlosseri)
+Ascidia colonial (Botrylloides leachii)
+Ascidia corazón de buey (Polycarpa aurata)
+Chorro de mar acanalado (Microcosmus sabatieri)
+Ascidia europea (Ascidiella aspersa)
